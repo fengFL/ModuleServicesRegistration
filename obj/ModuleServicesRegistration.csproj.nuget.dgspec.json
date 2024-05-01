@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/ModuleServicesRegistration.csproj": {}
+  },
+  "projects": {
+    "/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/ModuleServicesRegistration.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/ModuleServicesRegistration.csproj",
+        "projectName": "ModuleServicesRegistration",
+        "projectPath": "/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/ModuleServicesRegistration.csproj",
+        "packagesPath": "/Users/grumy/.nuget/packages/",
+        "outputPath": "/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/grumy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AsmResolver.DotNet": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

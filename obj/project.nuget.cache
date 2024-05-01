@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "DX4ZbHLIf6OaXDVDIOqQ+mEHyjqWRIGc6zpn/Aaj41x6/zNhTnyJMp2MxlsWxW6cwjVM8+MOJ1NBnjQKnIAo6g==",
+  "success": true,
+  "projectFilePath": "/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/ModuleServicesRegistration.csproj",
+  "expectedPackageFiles": [
+    "/Users/grumy/.nuget/packages/asmresolver/5.5.1/asmresolver.5.5.1.nupkg.sha512",
+    "/Users/grumy/.nuget/packages/asmresolver.dotnet/5.5.1/asmresolver.dotnet.5.5.1.nupkg.sha512",
+    "/Users/grumy/.nuget/packages/asmresolver.pe/5.5.1/asmresolver.pe.5.5.1.nupkg.sha512",
+    "/Users/grumy/.nuget/packages/asmresolver.pe.file/5.5.1/asmresolver.pe.file.5.5.1.nupkg.sha512",
+    "/Users/grumy/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/grumy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/grumy/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/grumy/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/grumy/.nuget/packages/system.text.json/6.0.8/system.text.json.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

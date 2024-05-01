@@ -1,0 +1,13 @@
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/bin/Debug/net7.0/ModuleServicesRegistration.deps.json
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/bin/Debug/net7.0/ModuleServicesRegistration.dll
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/bin/Debug/net7.0/ModuleServicesRegistration.pdb
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/obj/Debug/net7.0/ModuleServicesRegistration.csproj.AssemblyReference.cache
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/obj/Debug/net7.0/ModuleServicesRegistration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/obj/Debug/net7.0/ModuleServicesRegistration.AssemblyInfoInputs.cache
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/obj/Debug/net7.0/ModuleServicesRegistration.AssemblyInfo.cs
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/obj/Debug/net7.0/ModuleServicesRegistration.csproj.CoreCompileInputs.cache
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/obj/Debug/net7.0/ModuleServicesRegistration.dll
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/obj/Debug/net7.0/refint/ModuleServicesRegistration.dll
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/obj/Debug/net7.0/ModuleServicesRegistration.pdb
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/obj/Debug/net7.0/ref/ModuleServicesRegistration.dll
+/Users/grumy/Projects/MvcAppliicattion/ModuleServicesRegistration/bin/Debug/net7.0/ReadMe.txt
